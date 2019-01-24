@@ -2,7 +2,7 @@
 
 This project was completed as part of a [ReactForBeginners](https://ReactForBeginners.com) course presented by [Wes Bos](https://wesbos.com/).
 
-##About the project
+## About the project
 
 Visit the deployed application [here](https://catch-of-the-day-aziz.netlify.com/)
 
